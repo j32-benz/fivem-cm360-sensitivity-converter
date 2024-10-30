@@ -19,8 +19,8 @@ class Program
     static void Main()
     {
         // Example usage:
-        double cm360 = 80;  // Replace with desired cm/360 value
-        double dpi = 800;   // Replace with your DPI
+        double cm360 = 50;  // Replace with desired cm/360 value
+        double dpi = 1600;   // Replace with your DPI
 
         // Convert cm/360 to FiveM sensitivity
         double fivemSens = ComputeMouseOnFootScale(cm360, dpi);
