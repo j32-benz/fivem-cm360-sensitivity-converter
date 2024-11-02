@@ -19,7 +19,7 @@ class Program
     static void Main()
     {
         // Example usage:
-        double cm360 = 50;  // Replace with desired cm/360 value
+        double cm360 = 60;  // Replace with desired cm/360 value
         double dpi = 1600;   // Replace with your DPI
 
         // Convert cm/360 to FiveM sensitivity
